@@ -1,6 +1,6 @@
 ## About Me
 
-Hello there! My name is Linus Chirchir. I am a Health Data Scientist and Machine Learning Enthusiast. I am passionate about solving problems in healthcare using modern technology.
+Hello there! My name is Linus Chirchir. I am a Health Data Scientist and a Machine Learning Enthusiast. I am passionate about solving problems in healthcare using modern technology.
 
 ## Skills
 
