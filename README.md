@@ -13,8 +13,8 @@ Hello there! My name is Linus Chirchir. I am a Health Data Scientist and Machine
 ## How to Reach me Online
 
 - You can Follow Me on [Twitter](https://twitter.com/LinusChirchir)
-- You can Like and Follow Me [Facebook](https://www.facebook.com/LinusChirchir)
-- You can Connect and Follow Me [LinkedIn](https://www.linkedin.com/in/linuschirchir)
+- You can Like and Follow Me on [Facebook](https://www.facebook.com/LinusChirchir)
+- You can Connect and Follow Me on [LinkedIn](https://www.linkedin.com/in/linuschirchir)
 - You can Read my Articles and Follow Me on [Medium](https://linuschirchir.medium.com/)
 
 
