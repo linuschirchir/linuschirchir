@@ -1,4 +1,4 @@
-### Hi there 👋
+Hello there! My name is Linus Chirchir and I am a Health Data Scientist and AI and Machine Learning Enthusiast. I'm currently undertaking an MSc in Health Data Science at Swansea University.
 
 <!--
 **linuschirchir/linuschirchir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
