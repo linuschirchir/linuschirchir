@@ -1,6 +1,6 @@
 Hello there! My name is Linus Chirchir. I am a Health Data Scientist and Machine Learning Enthusiast. I'm currently undertaking an MSc in Health Data Science at Swansea University.
+_________________________________________________________________________________________________________________________________________________________________________
 
-- 🔭 I’m currently working on ...
 
 
 <!--
