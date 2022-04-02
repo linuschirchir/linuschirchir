@@ -2,7 +2,7 @@
 
 Hello there! My name is Linus Chirchir. I am a Health Data Scientist and Machine Learning Enthusiast. I am passionate about solving problems in healthcare using modern technology.
 
-# Skills
+## Skills
 
 - **Statistical Tools** - Advanced Excel and SPSS
 - **Programming** - R
