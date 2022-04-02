@@ -8,7 +8,7 @@ Hello there! My name is Linus Chirchir. I am a Health Data Scientist and Machine
 - **Programming** - R
 - **Database Management** - PostgreSQL
 - **Data Visualization** - R and Tableau
-- **Version Control** – Git and Github
+- **Version Control** - Git and Github
 
 ## How to Reach me Online
 
