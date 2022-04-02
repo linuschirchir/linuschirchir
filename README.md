@@ -1,13 +1,13 @@
 Hello there! My name is Linus Chirchir. I am a Health Data Scientist and Machine Learning Enthusiast. I'm currently undertaking an MSc in Health Data Science at Swansea University.
 
-# Skills
-Statistical Tools - Advanced Excel and SPSS
+## Skills
+- Statistical Tools - Advanced Excel and SPSS
 Programming - R
 Database Management - PostgreSQL
 Data Visualization - R and Tableau
 Version Control – Git and Github
 
-# 📫 How to Reach me Online
+## 📫 How to Reach me Online
 
 
 
