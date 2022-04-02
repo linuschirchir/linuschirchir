@@ -2,8 +2,8 @@ Hello there! My name is Linus Chirchir. I am a Health Data Scientist and Machine
 
 ### Skills
 
-* **Statistical Tools** - Advanced Excel and SPSS
-* **Programming** - R
+- **Statistical Tools** - Advanced Excel and SPSS
+- **Programming** - R
 3. **Database Management** - PostgreSQL
 4. **Data Visualization** - R and Tableau
 5. **Version Control** – Git and Github
