@@ -1,6 +1,6 @@
 ## About Me
 
-Hello there! My name is Linus Chirchir. I am a Health Data Scientist and a Machine Learning Enthusiast. I am passionate about solving problems in healthcare using modern technology.
+I possess diverse experience and educational foundation in Health Data Science and Health Information Systems, with a specialised focus on healthcare analytics, machine learning, and statistical modeling. My work history involves not only creating key performance indicators and dynamic data visualisations but also spearheading research initiatives that influence and better operational processes, positioning me as a valuable contributor in organisations that prioritise data-based decisions.
 
 ## Skills
 
