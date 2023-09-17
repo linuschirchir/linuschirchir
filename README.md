@@ -1,6 +1,6 @@
 ## About Me
 
-I possess diverse experience and educational foundation in Health Data Science and Health Information Systems, with a specialised focus on healthcare analytics, machine learning, and statistical modeling. My work history involves not only creating key performance indicators and dynamic data visualisations but also spearheading research initiatives that influence and better operational processes, positioning me as a valuable contributor in organisations that prioritise data-based decisions.
+Experienced Data Analyst with 13+ years of professional experience in health information systems, research, and analytics. Specialised in cleaning, merging, and analysing large datasets, particularly in the context of the National Health Service (NHS). Skilled in leveraging data science methodologies and machine learning techniques to drive improvements in healthcare quality, patient outcomes, and operational efficiency. Proven track record of contributing to academic publications and effective cross-functional collaboration.
 
 ## Skills
 
