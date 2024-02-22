@@ -9,7 +9,7 @@ Experienced Data Scientist with 13+ years of professional experience in health i
 - **Database Management:** PostgreSQL
 - **Data Visualization:** R, QGIS, Tableau and Power BI
 - **Version Control:** Git and GitHub
-- - **Geographic Information Systems:** QGIS
+- **Geographic Information Systems:** QGIS
 
 ## How to Reach me Online
 
