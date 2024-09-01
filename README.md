@@ -13,11 +13,11 @@ Experienced Data Scientist with 13+ years of professional experience in health i
 
 ## How to Reach me Online
 
-- You can Follow Me on <a href="https://twitter.com/LinusChirchir" target="_blank">Twitter</a>
-- You can Like and Follow Me on <a href="https://www.facebook.com/ChirchirLinus1" target="_blank">Facebook</a>
-- You can Connect and Follow Me on <a href="https://www.linkedin.com/in/linuschirchir" target="_blank">LinkedIn</a>
-- You can Read my Articles and Follow Me on <a href="https://linuschirchir.medium.com/" target="_blank">Medium</a>
-- You can Visit my <a href="https://linuschirchir.com/" target="_blank">Personal Website and Blog</a>
+- You can Follow Me on [Twitter](https://twitter.com/LinusChirchir) _(right-click and select "Open link in new tab")_
+- You can Like and Follow Me on [Facebook](https://www.facebook.com/ChirchirLinus1) _(right-click and select "Open link in new tab")_
+- You can Connect and Follow Me on [LinkedIn](https://www.linkedin.com/in/linuschirchir) _(right-click and select "Open link in new tab")_
+- You can Read my Articles and Follow Me on [Medium](https://linuschirchir.medium.com/) _(right-click and select "Open link in new tab")_
+- You can Visit my [Personal Website and Blog](https://linuschirchir.com/) _(right-click and select "Open link in new tab")_
 
 <!--
 **linuschirchir/linuschirchir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
