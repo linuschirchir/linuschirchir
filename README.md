@@ -1,4 +1,4 @@
-## About Me
+## ✨ About Linus Chirchir ✨
 
 I am a passionate Data Scientist with expertise in health information systems, healthcare research, and analytics. My work focuses on turning complex datasets into actionable insights that drive better healthcare outcomes and enhance operational efficiency. 🩺📈
 
