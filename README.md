@@ -21,7 +21,7 @@ My mission is to harness the power of data science, artificial intelligence, and
 
 - You can Check my Portfolio on [GitHub Pages](https://linuschirchir.github.io/)
 - You can Connect and Follow Me on [LinkedIn](https://www.linkedin.com/in/linuschirchir)
-- You can Follow Me on [Twitter](https://twitter.com/LinusChirchir)
+- You can Follow Me on [X](https://x.com/LinusChirchir)
 - You can Like and Follow Me on [Facebook](https://www.facebook.com/ChirchirLinus1)
 - You can Read my Articles and Follow Me on [Medium](https://linuschirchir.medium.com/)
 - You can Visit my [Personal Website and Blog](https://linuschirchir.com/)
