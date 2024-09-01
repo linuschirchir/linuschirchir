@@ -13,7 +13,7 @@ My mission is to harness the power of data science, artificial intelligence, and
 - **Statistical Tools:** Advanced Excel and SPSS
 - **Programming:** R
 - **Database Management:** PostgreSQL
-- **Data Visualization:** R, QGIS, Tableau and Power BI
+- **Data Visualisation:** R, QGIS, Tableau and Power BI
 - **Version Control:** Git and GitHub
 - **Geographic Information System:** QGIS
 
