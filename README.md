@@ -30,14 +30,14 @@ My mission is to harness the power of data science, artificial intelligence, and
 ## 
 Let's connect on any of the platforms below:
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Portfolio-blue?logo=github&style=social)](https://linuschirchir.github.io/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-blue?logo=github&style=social)](https://linuschirchir.github.io/)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/linuschirchir)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/linuschirchir)
 &nbsp;
-[![X](https://img.shields.io/badge/X-Follow-blue?logo=twitter&style=social)](https://x.com/LinusChirchir)
+[![X](https://img.shields.io/badge/X-blue?logo=x&style=social)](https://x.com/LinusChirchir)
 &nbsp;
-[![Facebook](https://img.shields.io/badge/Facebook-Like-blue?logo=facebook&style=social)](https://www.facebook.com/ChirchirLinus1)
+[![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook&style=social)](https://www.facebook.com/ChirchirLinus1)
 &nbsp;
-[![Medium](https://img.shields.io/badge/Medium-Read-blue?logo=medium&style=social)](https://linuschirchir.medium.com/)
+[![Medium](https://img.shields.io/badge/Medium-blue?logo=medium&style=social)](https://linuschirchir.medium.com/)
 &nbsp;
-[![Personal Website](https://img.shields.io/badge/Website-Blog-blue?style=social)](https://linuschirchir.com/)
+[![Personal Website](https://img.shields.io/badge/Website-blue?style=social)](https://linuschirchir.com/)
