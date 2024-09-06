@@ -11,7 +11,7 @@ Proficient in both quantitative and qualitative analytics, I apply a wide range 
 
 My mission is to harness the power of data science, artificial intelligence, and machine learning to improve healthcare quality and operational efficiency. I am passionate about using data to tell stories that inspire impactful change in the health sector. 💡📉
 
-##**Technical Skills:**
+## **Technical Skills:**
 
 - **Statistical Analysis:** Proficient in R, SPSS and advanced Excel
 - **Programming Languages:** Experienced in R
@@ -27,7 +27,9 @@ My mission is to harness the power of data science, artificial intelligence, and
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=linuschirchir&layout=compact&theme=radical)
 
-## Let's Connect on Any of the Platforms Below
+## 
+Let's connect on any of the platforms below:
+
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Portfolio-blue?logo=github&style=social)](https://linuschirchir.github.io/)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/linuschirchir)
