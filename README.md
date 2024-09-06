@@ -1,3 +1,6 @@
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=linuschirchir.linuschirchir) 
+[![GitHub followers](https://img.shields.io/github/followers/linuschirchir?label=Follow&style=social)](https://github.com/linuschirchir)
+
 ## ✨ About Linus Chirchir ✨
 
 I am a passionate Data Scientist with expertise in health information systems, healthcare research, and analytics. My work focuses on turning complex datasets into actionable insights that drive better healthcare outcomes and enhance operational efficiency. 🩺📈
@@ -8,20 +11,31 @@ Proficient in both quantitative and qualitative analytics, I apply a wide range 
 
 My mission is to harness the power of data science, artificial intelligence, and machine learning to improve healthcare quality and operational efficiency. I am passionate about using data to tell stories that inspire impactful change in the health sector. 💡📉
 
-## Skills
+##**Technical Skills:**
 
-- **Statistical Tools:** Advanced Excel and SPSS
-- **Programming:** R
-- **Database Management:** PostgreSQL
-- **Data Visualisation:** R, QGIS, Tableau and Power BI
-- **Version Control:** Git and GitHub
-- **Geographic Information System:** QGIS
+- **Statistical Analysis:** Proficient in R, SPSS and advanced Excel
+- **Programming Languages:** Experienced in R
+- **Database Management:** Skilled in PostgreSQL
+- **Data Visualisation:** Proficient with R, QGIS, Tableau and Power BI
+- **Version Control:** Knowledgeable in Git and GitHub
+- **Geographic Information Systems (GIS):** Expertise in QGIS
+- **Scientific and Technical Publishing:** Well Versed in Using Quarto
 
-## How to Reach me Online
+## GitHub Statistics
 
-- You can Check my Portfolio on [GitHub Pages](https://linuschirchir.github.io/)
-- You can Connect and Follow Me on [LinkedIn](https://www.linkedin.com/in/linuschirchir)
-- You can Follow Me on [X](https://x.com/LinusChirchir)
-- You can Like and Follow Me on [Facebook](https://www.facebook.com/ChirchirLinus1)
-- You can Read my Articles and Follow Me on [Medium](https://linuschirchir.medium.com/)
-- You can Visit my [Personal Website and Blog](https://linuschirchir.com/)
+![Linus' GitHub Stats](https://github-readme-stats.vercel.app/api?username=linuschirchir&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=linuschirchir&layout=compact&theme=radical)
+
+## Let's Connect on Any of the Platforms Below
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Portfolio-blue?logo=github&style=social)](https://linuschirchir.github.io/)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/linuschirchir)
+&nbsp;
+[![X](https://img.shields.io/badge/X-Follow-blue?logo=twitter&style=social)](https://x.com/LinusChirchir)
+&nbsp;
+[![Facebook](https://img.shields.io/badge/Facebook-Like-blue?logo=facebook&style=social)](https://www.facebook.com/ChirchirLinus1)
+&nbsp;
+[![Medium](https://img.shields.io/badge/Medium-Read-blue?logo=medium&style=social)](https://linuschirchir.medium.com/)
+&nbsp;
+[![Personal Website](https://img.shields.io/badge/Website-Blog-blue?style=social)](https://linuschirchir.com/)
