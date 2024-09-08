@@ -30,14 +30,12 @@ My mission is to harness the power of data science, artificial intelligence, and
 ## 
 Let's connect on any of the platforms below:
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-blue?logo=github&style=social)](https://linuschirchir.github.io/)
+[![Portfolio Website](https://img.shields.io/badge/Portfolio-View%20Here-green?style=social)](https://linuschirchir.com/)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/linuschirchir)
+&nbsp;
+[![Medium](https://img.shields.io/badge/Medium-blue?logo=medium&style=social)](https://linuschirchir.medium.com/)
 &nbsp;
 [![X](https://img.shields.io/badge/X-blue?logo=x&style=social)](https://x.com/LinusChirchir)
 &nbsp;
 [![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook&style=social)](https://www.facebook.com/ChirchirLinus1)
-&nbsp;
-[![Medium](https://img.shields.io/badge/Medium-blue?logo=medium&style=social)](https://linuschirchir.medium.com/)
-&nbsp;
-[![Personal Website](https://img.shields.io/badge/Website-blue?style=social)](https://linuschirchir.com/)
