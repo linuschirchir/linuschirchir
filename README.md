@@ -21,13 +21,15 @@ My mission is to harness the power of data science, artificial intelligence, and
 - **Geographic Information Systems (GIS):** Expertise in QGIS
 - **Scientific and Technical Publishing:** Well Versed in Using Quarto
 
-## GitHub Statistics
+## Linus Chirchir's GitHub Statistics
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=linuschirchir&show_icons=true&theme=radical" alt="Linus' GitHub Stats" height="150px"></td>
+    <td><img src="https://streak-stats.demolab.com?user=linuschirchir&theme=radical" alt="GitHub Streak" height="150px"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linuschirchir&layout=compact&theme=radical" alt="Top Languages" height="150px"></td>    
+  </tr>
+</table>
 
-![Linus' GitHub Stats](https://github-readme-stats.vercel.app/api?username=linuschirchir&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=linuschirchir&layout=compact&theme=radical)
-
-## 
 Let's connect on any of the platforms below:
 
 [![Portfolio Website](https://img.shields.io/badge/Portfolio-View%20Here-green?style=social)](https://linuschirchir.com/)
