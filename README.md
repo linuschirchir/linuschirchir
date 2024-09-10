@@ -47,7 +47,3 @@ If you would like to contribute to any of the repositories, please **fork the re
 [![X](https://img.shields.io/badge/X-blue?logo=x&style=social)](https://x.com/LinusChirchir)
 &nbsp;
 [![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook&style=social)](https://www.facebook.com/ChirchirLinus1)
-
-<p align="center">
-  <img src="https://linuschirchir.github.io/images/footer.webp" alt="Footer Image" height="150px">
-</p>
