@@ -21,6 +21,10 @@ My mission is to harness the power of data science, artificial intelligence, and
 - **Geographic Information Systems (GIS):** Expertise in QGIS
 - **Scientific and Technical Publishing:** Well Versed in Using Quarto
 
+## Contributing
+
+If you would like to contribute to any of the repositories, please **fork the relevant repository** rather than cloning it directly. Forking allows better tracking of your contributions and makes it easier to integrate your changes. To fork a repository, click the **"Fork"** button in the top-right corner of the repository's page.
+
 ## Linus Chirchir's GitHub Statistics
 <table>
   <tr>
@@ -30,7 +34,9 @@ My mission is to harness the power of data science, artificial intelligence, and
   </tr>
 </table>
 
-Let's connect on any of the platforms below:
+## 🌟 Let's Connect! 🌟
+
+ I'm always happy to connect, collaborate, and share knowledge. Feel free to reach out on any of the platforms below!
 
 [![Portfolio Website](https://img.shields.io/badge/Portfolio-View%20Here-green?style=social)](https://linuschirchir.com/)
 &nbsp;
@@ -41,3 +47,7 @@ Let's connect on any of the platforms below:
 [![X](https://img.shields.io/badge/X-blue?logo=x&style=social)](https://x.com/LinusChirchir)
 &nbsp;
 [![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook&style=social)](https://www.facebook.com/ChirchirLinus1)
+
+<p align="center">
+  <img src="https://linuschirchir.github.io/images/footer.webp" alt="Footer Image" height="150px">
+</p>
