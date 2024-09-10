@@ -26,11 +26,12 @@ My mission is to harness the power of data science, artificial intelligence, and
 If you would like to contribute to any of the repositories, please **fork the relevant repository** rather than cloning it directly. Forking allows better tracking of your contributions and makes it easier to integrate your changes. To fork a repository, click the **"Fork"** button in the top-right corner of the repository's page.
 
 ## Linus Chirchir's GitHub Statistics
+
+<td><img src="https://streak-stats.demolab.com?user=linuschirchir&theme=radical" alt="GitHub Streak" height="400px"></td>
 <table>
   <tr>
-    <td><img src="https://streak-stats.demolab.com?user=linuschirchir&theme=radical" alt="GitHub Streak" height="150px"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=linuschirchir&show_icons=true&theme=radical" alt="Linus' GitHub Stats" height="150px"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linuschirchir&layout=compact&theme=radical" alt="Top Languages" height="150px"></td>    
+    <td><img src="https://github-readme-stats.vercel.app/api?username=linuschirchir&show_icons=true&theme=radical" alt="Linus' GitHub Stats" height="300px"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linuschirchir&layout=compact&theme=radical" alt="Top Languages" height="300px"></td>    
   </tr>
 </table>
 
