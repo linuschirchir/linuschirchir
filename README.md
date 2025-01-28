@@ -1,7 +1,7 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=linuschirchir.linuschirchir) 
 [![GitHub followers](https://img.shields.io/github/followers/linuschirchir?label=Follow&style=social)](https://github.com/linuschirchir)
 
-## ✨ About Linus Chirchir ✨
+## About Linus Chirchir 
 
 I am a passionate Data Scientist with expertise in health information systems, healthcare research, and analytics. My work focuses on turning complex datasets into actionable insights that drive better healthcare outcomes and enhance operational efficiency. 🩺📈
 
@@ -35,7 +35,7 @@ If you would like to contribute to any of the repositories, please **fork the re
   </tr>
 </table>
 
-## 🌟 Let's Connect! 🌟
+## Let's Connect!
 
  I'm always happy to connect, collaborate, and share knowledge. Feel free to reach out on any of the platforms below!
 
